@@ -1,3 +1,8 @@
+---
+title: "Comfy UI Workflow Repository"
+description: "A collection of tutorials and workflows for creating stunning animations with Comfy UI."
+---
+
 # Comfy UI Workflow Repository
 
 Welcome to the Comfy UI Workflow repository! Here, you'll find a collection of useful workflows and tutorials for creating stunning animations and visuals using Comfy UI. Whether you're new to AI animation or looking to expand your creative potential, this repository has you covered.
