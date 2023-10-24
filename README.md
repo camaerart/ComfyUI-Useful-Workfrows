@@ -31,7 +31,7 @@ To access these tutorials and workflows, simply click on the provided links to v
 
 ## Usage
 
-Each tutorial provides in-depth explanations, settings guides, and additional tips to help you make the most of Comfy UI. Experiment, create, and bring your artistic ideas to life with these powerful AI animation tools.
+Each Image is the workflow, just drag and drop inside comfy UI Experiment, create, and bring your artistic ideas to life with these powerful AI animation tools.
 
 ## Troubleshooting
 
@@ -45,10 +45,10 @@ If you have your own insights, workflows, or tips related to Comfy UI, consider 
 
 Join the Comfy UI community on Discord to connect with other creative minds, share your work, and stay up-to-date with the latest developments in AI animation.
 
-[Join the Comfy UI Discord Community](https://discord.gg/comfyui)
+
 
 ## Special Thanks
 
-I want to special thanks someone 😔
+mom! 
 
 Explore the tutorials, unleash your creative potential, and create breathtaking animations with Comfy UI. We look forward to seeing your amazing work!
