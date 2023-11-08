@@ -19,6 +19,8 @@ Welcome to the Comfy UI Workflow repository! Here, you'll find a collection of u
 ![Tutorial 4](https://github.com/camaerart/ComfyUI-Usefull-Workfrows/blob/main/robotic%20girl2410.png )
 **Tutorial 4:** Dive into the world of AI animation, where you can explore imate to video with the use of  AnimateDiff, two powerful motion modules that can bring your creative visions to life.
 
+![SSD-1B mini XL](https://github.com/camaerart/ComfyUI-Useful-Workfrows/blob/main/SSD%20mini%20XL.png)
+
 ## System Requirements
 
 Before getting started, please ensure that your system meets the following requirements:
