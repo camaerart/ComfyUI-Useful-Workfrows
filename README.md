@@ -20,6 +20,7 @@ Welcome to the Comfy UI Workflow repository! Here, you'll find a collection of u
 **Tutorial 4:** Dive into the world of AI animation, where you can explore imate to video with the use of  AnimateDiff, two powerful motion modules that can bring your creative visions to life.
 
 ![SSD-1B mini XL](https://github.com/camaerart/ComfyUI-Useful-Workfrows/blob/main/SSD%20mini%20XL.png)
+**Tutorial 5:** Use Stable Difussion XDXL with low vRam.
 
 ## System Requirements
 
